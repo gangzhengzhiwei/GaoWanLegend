@@ -4,6 +4,6 @@
 
 Warning: May Cause Discomfort!
 
-本仓库为鄙人为一些高中同学写的猎奇同人小说.
+本仓库为鄙人为一些高中同学写的猎奇奇幻同人小说.
 
-This repository is a morbid curiosity novel for some of my senior high school classmate.
+This repository is a fantastically morbid curiosity novel for some of my senior high school classmate.
